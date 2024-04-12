@@ -1,5 +1,5 @@
 # BASHENCRPTION
-Encyrpt tar files using bash in terminal
+Encyrpt tar files using bash
 
 Download GPG
 MAC
