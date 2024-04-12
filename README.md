@@ -3,9 +3,9 @@ Encyrpt tar files using bash in terminal
 
 Download GPG
 MAC
->brew install gpg
+brew install gpg
 LINUX
->sudo apt-get install gpg
+sudo apt-get install gpg
 
 chmod u+x encrypt.sh
 ./encrypt.sh
